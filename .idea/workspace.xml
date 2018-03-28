@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c38c348-1e56-41a5-bb9d-566bcc9e93ba" name="Default" comment="" />
+    <list default="true" id="0c38c348-1e56-41a5-bb9d-566bcc9e93ba" name="Default" comment="php 策略模式">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataBase/redisPersistence.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +27,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Strategy.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Strategy.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/Strategy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="634">
-                <caret line="86" column="2" lean-forward="false" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+              <first_editor relative-caret-position="400">
+                <caret line="73" column="39" lean-forward="true" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
                 <folding>
                   <marker date="1522124039000" expanded="true" signature="324:1532" ph="..." />
                   <marker date="1522124039000" expanded="true" signature="328:344" ph=" 抽象策略角色，以接口实现 ..." />
@@ -59,6 +62,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="redisPersistence.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="567">
+                <caret line="89" column="63" lean-forward="false" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -69,6 +85,8 @@
       <list>
         <option value="$PROJECT_DIR$/ioc.md" />
         <option value="$PROJECT_DIR$/php/Strategy.md" />
+        <option value="$PROJECT_DIR$/DataBase/redisPersistence.md.php" />
+        <option value="$PROJECT_DIR$/DataBase/redisPersistence.md" />
       </list>
     </option>
   </component>
@@ -125,6 +143,11 @@
             <path>
               <item name="notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="notes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DataBase" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -143,6 +166,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/php" />
     </key>
   </component>
@@ -169,7 +193,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521598668516</updated>
       <workItem from="1521598674165" duration="972000" />
-      <workItem from="1522123867875" duration="222000" />
+      <workItem from="1522123867875" duration="5378000" />
     </task>
     <task id="LOCAL-00001" summary="ioc容器">
       <created>1521599028251</created>
@@ -196,7 +220,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1194000" />
+    <option name="totallyTimeSpent" value="6350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="975" extended-state="0" />
@@ -208,7 +232,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21470246" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -264,8 +288,8 @@
     <entry file="file://$PROJECT_DIR$/php/Strategy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="634">
-            <caret line="86" column="2" lean-forward="false" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+          <first_editor relative-caret-position="400">
+            <caret line="73" column="39" lean-forward="true" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
             <folding>
               <marker date="1522124039000" expanded="true" signature="324:1532" ph="..." />
               <marker date="1522124039000" expanded="true" signature="328:344" ph=" 抽象策略角色，以接口实现 ..." />
@@ -289,6 +313,23 @@
               <marker date="1522124039000" expanded="true" signature="1094:1117" ph=" Main program. ..." />
               <marker date="1522124039000" expanded="true" signature="1153:1506" ph="..." />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="567">
+            <caret line="89" column="63" lean-forward="false" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
