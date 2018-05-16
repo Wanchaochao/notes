@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c38c348-1e56-41a5-bb9d-566bcc9e93ba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/software/capturepackage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/JavaScript作用域.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,36 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="observer.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/observer.md">
+      <file leaf-file-name="JavaScript作用域.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+              <first_editor relative-caret-position="239">
+                <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="normal.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/normal.md">
+      <file leaf-file-name="redisPersistence.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="160">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="capturepackage.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/software/capturepackage.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="15" selection-start-column="15" selection-end-column="15" />
+              <first_editor relative-caret-position="1780">
+                <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,10 +49,11 @@
         <option value="$PROJECT_DIR$/ioc.md" />
         <option value="$PROJECT_DIR$/php/Strategy.md" />
         <option value="$PROJECT_DIR$/DataBase/redisPersistence.md.php" />
-        <option value="$PROJECT_DIR$/DataBase/redisPersistence.md" />
         <option value="$PROJECT_DIR$/php/normal.md" />
         <option value="$PROJECT_DIR$/php/observer.md" />
         <option value="$PROJECT_DIR$/software/capturepackage.md" />
+        <option value="$PROJECT_DIR$/DataBase/redisPersistence.md" />
+        <option value="$PROJECT_DIR$/JavaScript/JavaScript作用域.md" />
       </list>
     </option>
   </component>
@@ -106,6 +95,21 @@
             <path>
               <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
               <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DataBase" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="JavaScript" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
@@ -159,7 +163,10 @@
       <workItem from="1524818701546" duration="652000" />
       <workItem from="1525249096746" duration="766000" />
       <workItem from="1525664014685" duration="599000" />
-      <workItem from="1525849407221" duration="95000" />
+      <workItem from="1525849407221" duration="856000" />
+      <workItem from="1526450600244" duration="1059000" />
+      <workItem from="1526451771358" duration="246000" />
+      <workItem from="1526452369369" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="ioc容器">
       <created>1521599028251</created>
@@ -189,17 +196,24 @@
       <option name="project" value="LOCAL" />
       <updated>1525249262057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="charles 抓包工具">
+      <created>1525849651803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1525849651803</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10234000" />
+    <option name="totallyTimeSpent" value="12680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16187434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -232,9 +246,80 @@
     <MESSAGE value="ioc容器，依赖注入" />
     <MESSAGE value="php 策略模式" />
     <MESSAGE value="php 观察者模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="php 观察者模式" />
+    <MESSAGE value="charles 抓包工具" />
+    <option name="LAST_COMMIT_MESSAGE" value="charles 抓包工具" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="960">
+            <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1780">
+            <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1100">
+            <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1780">
+            <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/observer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1060">
+            <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/normal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="160">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/capturepackage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="15" selection-start-column="15" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/php/observer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -351,21 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2200">
-            <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/yield.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -391,11 +461,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/observer.md">
+    <entry file="file://$PROJECT_DIR$/software/capturepackage.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <first_editor>
+            <caret column="15" selection-start-column="15" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
@@ -411,11 +481,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/software/capturepackage.md">
+    <entry file="file://$PROJECT_DIR$/php/observer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <first_editor relative-caret-position="359">
+            <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1780">
+            <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="239">
+            <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
           </first_editor>
           <second_editor />
         </state>
