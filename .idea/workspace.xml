@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c38c348-1e56-41a5-bb9d-566bcc9e93ba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaScript/JavaScript作用域.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/Laravel/laravel-crontab.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vim/colors/lucius.vim" beforeDir="false" afterPath="$PROJECT_DIR$/software/vim/colors/lucius.vim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vim/vimrc" beforeDir="false" afterPath="$PROJECT_DIR$/software/vim/vimrc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,24 +17,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaScript作用域.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaScript作用域.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="239">
-                <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+              <first_editor relative-caret-position="3400">
+                <caret line="170" selection-start-line="170" selection-end-line="170" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redisPersistence.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+      <file leaf-file-name="lucius.vim" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/software/vim/colors/lucius.vim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="345" column="35" selection-start-line="345" selection-start-column="35" selection-end-line="345" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="capturepackage.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/software/capturepackage.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1780">
-                <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+              <first_editor>
+                <caret column="15" selection-start-column="15" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vimrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/software/vim/vimrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1515">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linux/.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="laravel-crontab.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/Laravel/laravel-crontab.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="585">
+                <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -54,6 +97,8 @@
         <option value="$PROJECT_DIR$/software/capturepackage.md" />
         <option value="$PROJECT_DIR$/DataBase/redisPersistence.md" />
         <option value="$PROJECT_DIR$/JavaScript/JavaScript作用域.md" />
+        <option value="$PROJECT_DIR$/linux/.md" />
+        <option value="$PROJECT_DIR$/php/Laravel/laravel-crontab.md" />
       </list>
     </option>
   </component>
@@ -104,7 +149,7 @@
             <path>
               <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
               <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="JavaScript" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="linux" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
@@ -114,7 +159,8 @@
             <path>
               <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
               <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="software" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -131,6 +177,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/software" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/php" />
     </key>
@@ -166,7 +213,8 @@
       <workItem from="1525849407221" duration="856000" />
       <workItem from="1526450600244" duration="1059000" />
       <workItem from="1526451771358" duration="246000" />
-      <workItem from="1526452369369" duration="380000" />
+      <workItem from="1526452369369" duration="923000" />
+      <workItem from="1526521675026" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="ioc容器">
       <created>1521599028251</created>
@@ -203,17 +251,24 @@
       <option name="project" value="LOCAL" />
       <updated>1525849651803</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="javascript作用域">
+      <created>1526455368970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526455368970</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12680000" />
+    <option name="totallyTimeSpent" value="14332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="974" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1682641" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -247,9 +302,37 @@
     <MESSAGE value="php 策略模式" />
     <MESSAGE value="php 观察者模式" />
     <MESSAGE value="charles 抓包工具" />
-    <option name="LAST_COMMIT_MESSAGE" value="charles 抓包工具" />
+    <MESSAGE value="javascript作用域" />
+    <option name="LAST_COMMIT_MESSAGE" value="javascript作用域" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3400">
+            <caret line="170" selection-start-line="170" selection-end-line="170" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1780">
+            <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/vim/colors/lucius.vim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6900">
+          <caret line="345" column="35" lean-forward="true" selection-start-line="345" selection-start-column="35" selection-end-line="345" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -461,16 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/software/capturepackage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="15" selection-start-column="15" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/normal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -492,11 +565,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1780">
@@ -505,14 +573,66 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="239">
-            <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+          <first_editor relative-caret-position="3400">
+            <caret line="170" selection-start-line="170" selection-end-line="170" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/vim/colors/lucius.vim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="345" column="35" selection-start-line="345" selection-start-column="35" selection-end-line="345" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/capturepackage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="15" selection-start-column="15" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/vim/vimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1515">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Laravel/laravel-crontab.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="585">
+            <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
