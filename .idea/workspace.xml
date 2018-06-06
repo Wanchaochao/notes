@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c38c348-1e56-41a5-bb9d-566bcc9e93ba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/php/Laravel/5个有用的blade语法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBase/redis/redis随笔.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBase/redis/复制Replication.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/install-swoole.md" beforeDir="false" afterPath="$PROJECT_DIR$/php/install-swoole.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataBase/redisPersistence.md" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase/redis/redisPersistence.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/php/install-swoole.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="319">
+              <first_editor relative-caret-position="780">
                 <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               </first_editor>
               <second_editor />
@@ -91,13 +92,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5个有用的blade语法.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5个有用的blade语法.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/Laravel/5个有用的blade语法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="598">
-                <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+              <first_editor relative-caret-position="980">
+                <caret line="49" column="6" lean-forward="true" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redisPersistence.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/redis/redisPersistence.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="193">
+                <caret line="76" column="30" lean-forward="true" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis随笔.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/redis/redis随笔.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="471">
+                <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="复制Replication.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataBase/redis/复制Replication.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -123,6 +158,7 @@
         <option value="$PROJECT_DIR$/php/Laravel/laravel-crontab.md" />
         <option value="$PROJECT_DIR$/php/install-swoole.md" />
         <option value="$PROJECT_DIR$/php/Laravel/5个有用的blade语法.md" />
+        <option value="$PROJECT_DIR$/DataBase/redis/redis随笔.md" />
       </list>
     </option>
   </component>
@@ -173,6 +209,12 @@
             <path>
               <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
               <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DataBase" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="redis" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mynote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mynote" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="linux" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -201,6 +243,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DataBase/redis" />
       <recent name="$PROJECT_DIR$/software" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/php" />
@@ -243,7 +286,8 @@
       <workItem from="1526867311277" duration="730000" />
       <workItem from="1526915685539" duration="2448000" />
       <workItem from="1527219794356" duration="598000" />
-      <workItem from="1527583511138" duration="205000" />
+      <workItem from="1527583511138" duration="3400000" />
+      <workItem from="1528252159020" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="ioc容器">
       <created>1521599028251</created>
@@ -301,17 +345,23 @@
       <option name="project" value="LOCAL" />
       <updated>1527215039152</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="swoole安装,laravel blade">
+      <created>1527583732925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527583732925</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19290000" />
+    <option name="totallyTimeSpent" value="23203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17625134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17784877" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -320,7 +370,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21436717" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20068415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -348,24 +398,10 @@
     <MESSAGE value="javascript作用域" />
     <MESSAGE value="laravel crontab" />
     <MESSAGE value="swoole安装" />
-    <option name="LAST_COMMIT_MESSAGE" value="swoole安装" />
+    <MESSAGE value="swoole安装,laravel blade" />
+    <option name="LAST_COMMIT_MESSAGE" value="swoole安装,laravel blade" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/software/vim/vimrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/Laravel/laravel-crontab.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -490,7 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/redisPersistence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1780">
@@ -517,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/redisPersistence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1780">
@@ -537,7 +573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/redisPersistence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1780">
@@ -625,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/redisPersistence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1780">
@@ -665,7 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/redisPersistence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1780">
@@ -738,21 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/redisPersistence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1780">
-            <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/JavaScript作用域.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -796,6 +817,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php/Laravel/laravel-crontab.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="720">
@@ -804,16 +830,11 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php/install-swoole.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
+          <first_editor relative-caret-position="780">
             <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           </first_editor>
           <second_editor />
@@ -823,9 +844,42 @@
     <entry file="file://$PROJECT_DIR$/php/Laravel/5个有用的blade语法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="598">
-            <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+          <first_editor relative-caret-position="980">
+            <caret line="49" column="6" lean-forward="true" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/redisPersistence.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="193">
+            <caret line="76" column="30" lean-forward="true" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/redis随笔.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="471">
+            <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/redis/复制Replication.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
